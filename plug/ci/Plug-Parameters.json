@@ -1,0 +1,16 @@
+[{
+    "ParameterKey": "KeyName",
+    "ParameterValue": "Plug"
+}, {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.small"
+}, {
+    "ParameterKey": "numberOfNodes",
+    "ParameterValue": "3"
+}, {
+    "ParameterKey": "plugVersion",
+    "ParameterValue": "0.0.24"
+}, {
+    "ParameterKey": "SSHLocation",
+    "ParameterValue": "0.0.0.0/0"
+}]
